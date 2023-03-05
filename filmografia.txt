@@ -1,4 +1,4 @@
-“1. Captain America: The First
+1. Captain America: The First
 Avenger (1942
 
 2. Captain Marvel (1995))
@@ -42,6 +42,7 @@ Soldier (2014)
 19. Black Panther (2017)
 
 20. Thor: Ragnarok (2017)
+<<<<<<< HEAD
 
 21. Avengers: Infinity War (2017)
 
@@ -64,4 +65,6 @@ the Ten Rings (2023)
 28. Dr. Strange in the Multiverse of
 Madness (2025)
 
+
+29. Thor: Love and Thunder (2025)
 
