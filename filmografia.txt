@@ -1,7 +1,7 @@
 1. Captain America: The First
 Avenger (1942
 
-2. Captain Marvel (1995))
+2. Captain Marvel (1995)
 
 3. Iron Man (2008
 
@@ -42,7 +42,6 @@ Soldier (2014)
 19. Black Panther (2017)
 
 20. Thor: Ragnarok (2017)
-<<<<<<< HEAD
 
 21. Avengers: Infinity War (2017)
 
